@@ -18,7 +18,7 @@ public class JennySubtree {
             // your code goes here
             double a = 15.6;
 
-            c = c.abs();
+//            a = a.abs();
         }
     }
 }

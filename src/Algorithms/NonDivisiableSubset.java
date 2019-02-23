@@ -62,7 +62,7 @@ public class NonDivisiableSubset {
     }
     
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named FrequencySort. */
     	int n=0, k=0;
     	ArrayList<Integer> ar;
     	Scanner scan = new Scanner(System.in);

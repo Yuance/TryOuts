@@ -6,7 +6,7 @@ import java.util.*;
 public class ArrayCrush {
 
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named FrequencySort. */
     	
     	int m,n;
     	Long max, temp;
